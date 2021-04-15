@@ -6,4 +6,6 @@ Data Science Internship (APR-2021)
 
 I have used K-means classifier to perform the clustering.
 
+The dataset is available in Kaggle : https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 
